@@ -9,3 +9,4 @@ This is a simple SPFx extension (application customiser) to add a CSS file.
 - Package the solution and upload it the app catalog.
 - Add the app to the required site.
 - Follow the instructions in [this article](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/get-started/serving-your-extension-from-sharepoint) for deployment. 
+- If more detailed instrcutions are needed then please follow [this blog](https://tahoeninjas.blog/2018/05/08/inject-custom-css-on-sharepoint-modern-pages-using-spfx-extensions/) by Hugo Bernier.
