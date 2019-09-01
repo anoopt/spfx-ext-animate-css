@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="Animatecss"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="3d9a4c99-e50b-4bdc-ac92-5cdb21a318e2"
+        ClientSideComponentProperties="{&quot;cssurl&quot;:&quot;/sites/Teamsite/Shared Documents/CSS/animate.min.css&quot;}">
+    </CustomAction>
+</Elements>

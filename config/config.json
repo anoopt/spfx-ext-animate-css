@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "animatecss-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/animatecss/AnimatecssApplicationCustomizer.js",
+          "manifest": "./src/extensions/animatecss/AnimatecssApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "AnimatecssApplicationCustomizerStrings": "lib/extensions/animatecss/loc/{locale}.js"
+  }
+}

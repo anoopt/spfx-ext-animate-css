@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="Animatecss"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="3d9a4c99-e50b-4bdc-ac92-5cdb21a318e2"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>
